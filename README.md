@@ -1,5 +1,5 @@
 # Zenity Tabanlı Envanter Uygulaması
-
+youtube linki: https://youtu.be/q4w01Lh7dpc
 Bu proje, Linux üzerinde Zenity kullanılarak oluşturulmuş bir envanter yönetim sistemidir. Uygulama, ürün ekleme, listeleme, güncelleme, silme, raporlama ve kullanıcı yönetimi gibi özellikler sunar. Kullanıcı rolleri sayesinde yetkilendirme işlemleri yapılabilir.
 
 ---
