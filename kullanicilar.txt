@@ -1,0 +1,5 @@
+admin,1234,admin
+mert,123,user
+mertow,12,user
+mertaltın,123,user
+yönetici,123,admin
